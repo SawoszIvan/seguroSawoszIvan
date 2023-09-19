@@ -1,0 +1,28 @@
+Contexto, tasacion de seguros automoviles. 
+Variables: -Modelo (año)
+           -Valor inicial (Constante)
+           -Tipo (Sedan, hatchback, SUV, pick up)
+           -Tipo de seguro (Simple, Standar, Premium)
+
+Valores:
+ -Modelo
+   2% anual
+ -Tipo
+   Sedan= inicial*1
+   hatchback= inicial*1.5
+   SUV= inicial*2
+   pickUp= inicial*2.5
+ -Seguro:
+   Simple= tipo*1
+   Standard= tipo*1.5
+   Premium= tipo*2
+
+Primera entrega: 
+ *Funcion para recabar modelo
+ *Funcion para recabar tipo
+ *Funcion para recabar tipo de seguro
+ *Funcion para resultado
+
+Segunda entrega:
+ *Verificador de valores ingresados.
+ *Arreglo para agrupar tipos; seguros.
